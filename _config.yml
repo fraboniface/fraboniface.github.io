@@ -76,6 +76,7 @@ paginate_path:         /page-:num/
 
 # Customizaton
 # ========================================================================================
+remote_theme: hydecorp/hydejack
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/blue_bg.jpg
