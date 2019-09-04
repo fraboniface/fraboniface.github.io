@@ -27,7 +27,7 @@ Here are some articles in the pipe:
 ### Posting frequency
 I have no rule, for now. I will spend as much time as necessary on my posts. The question is whether to break down long articles in several installments.
 I have mixed feelings about this. On one hand, I know shorter posts make for an easier read and will be read by more people.
-On the other hand, I *love* very long texts when they are interesting and well written. The best example I know of this is Tim Urban's [Wait but why](https://waitbutwhy.com/).
+On the other hand, I *love* very long texts when they are interesting and well written. The best example I know of this is Tim Urban's [Wait But Why](https://waitbutwhy.com/).
 In short, I don't know.
 
 ### Length of my articles

@@ -235,6 +235,8 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  
+
 
 # File inclusion/exclusion
 # ========================================================================================
