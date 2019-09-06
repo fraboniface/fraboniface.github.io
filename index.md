@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to my blog | Bienvenue sur mon blog
+title: Welcome | Bienvenue
 ---
 
 It seems you've stumbled upon my blog. You'll learn more about it in the [About](/about/) page.
