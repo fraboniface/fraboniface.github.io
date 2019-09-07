@@ -1,7 +1,7 @@
 ---
 layout: post
 author: François
-title: La bataille commence
+title: La Bataille Commence
 ---
 
 Voici mon premier article. J'espère que vous avez compris la référence au Seigneur des Anneaux. Sinon, ce n'est pas grave: cela veut dire que des gens normaux lisent mon blog.

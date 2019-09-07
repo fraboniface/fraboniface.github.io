@@ -1,7 +1,7 @@
 ---
 layout: post
 author: François
-title: So it begins
+title: So It Begins
 ---
 
 This is my first post. Hope you didn't miss the reference to LOTR in the title. If you did, then I'm still happy: it means normal people are reading my blog.

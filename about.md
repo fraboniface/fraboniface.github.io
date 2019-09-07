@@ -10,7 +10,7 @@ Vous vous demandez qui je suis et qu'est ce blog ? Vous êtes au bon endroit. Re
 
 ---
 
-My name is François, I'm a machine learning engineer. This means I work in what most people call AI, artificial intelligence.
+My name is François Boniface, I'm a machine learning engineer. I work in what most people call AI, artificial intelligence.
 I have varied interests. As a consequence, I don't spend my free time coding. My GitHub (the portfolio of programmers) is therefore a bit empty.
 Although, I find it unhealthy, employers in this field expect you to live for code and spend your free time doing work-related projects "for fun".
 Enough people are actually willing to bend to that rule that it can become a handicap for those who are not. I think a diploma should speak for itself.
@@ -26,7 +26,7 @@ As you might have guessed from my name, I am French. Some of my articles will th
 
 ---
 
-Je m'appelle François, je suis ingénieur en apprentissage statistique, plus couramment appelé *machine learning*. Je travaille donc dans l'intelligencre artificielle (IA).
+Je m'appelle François Boniface, je suis ingénieur en apprentissage statistique, plus couramment appelé *machine learning*. Je travaille dans l'intelligencre artificielle (IA).
 Je m'intéresse à beaucoup de choses, trop pour passer mon temps libre à programmer. Mon compte GitHub (le portfolio des programmeurs) est donc un peu vide.
 Les employeurs dans mon domaine s'attendent à ce que les candidats passent leur temps libre à faire des projets liés à leurs études ou travail "pour s'amuser".
 Je trouve cela assez malsain, et il est hors de question que je passe mon temps libre à faire ce que je fais le reste de la journée. Mon diplôme devrait suffire.
