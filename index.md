@@ -7,9 +7,9 @@ title: Welcome | Bienvenue
 ---
 
 It seems you've stumbled upon my blog. You'll learn more about it in the [About](/about/) page.
-It is very recent. For now, you can read my first post, about natural language processing.
+It's quite recent: I only have two real posts for now. You can see them below.
 
 Vous avez atterri sur mon blog. Je préfère le terme original à "blogue" car ce dernier m'évoque un blobfish.
-Vous en apprendrez plus sur moi et ce blog dans la page [A propos](/about/).  
-Je viens de le créer. Pour l'instant, vous pouvez lire mon premier post sur le traitement du langage naturel.
-Il est en anglais et ne sera pas traduit en français, comme tous mes articles techniques.
+Vous en apprendrez plus sur moi et ce blog dans la page [A propos](/about/).
+Il est assez récent. je n'ai que deux "vrais" articles pour l'instant. Vous pouvez les voir ci-dessous.
+Ils sont en anglais. Je traduirais peut-être le second quand j'en aurai le courage, mais le premier ne sera pas traduit, comme tous mes articles techniques.

@@ -24,11 +24,10 @@ Voici quelques-uns des articles dans les tuyaux:
 - énergie: une plongée en profondeur dans l'énergie nucléaire;
 - écologie: croissance, fonction exponentielle et cerveau;
 - environnement: l'écologie pour les capitalistes;
-- économie: introduction à la Théorie Moderne de la Monnaie.
 
 ### Fréquence de publication
 Je n'ai pas de règle. Je passerai le temps qu'il faudra sur chaque article. Je ne sais pas encore si je casserai les longs articles en morceaux que je publierai un par un.
-Je suis partagé: d'un coté cela fera des textes pus digestes et probablement plus lu ; d'un autre *j'adore* les articles longs, quand ils sont intéressants et bien écrits.
+Je suis partagé: d'un coté cela fera des textes plus digestes et probablement plus lu ; d'un autre *j'adore* les articles longs, quand ils sont intéressants et bien écrits.
 Le meilleur exemple qui me vient à l'esprit est le blog [Wait But Why](https://waitbutwhy.com/) de Tim Urban (en anglais). 
 
 ### Longueur des articles

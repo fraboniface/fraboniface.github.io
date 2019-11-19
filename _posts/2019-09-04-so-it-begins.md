@@ -22,7 +22,6 @@ Here are some articles in the pipe:
 - energy: an in-depth study of nuclear energy;
 - sustainability: growth, the exponential function, and our brain;
 - environment: ecology for capitalists;
-- economics: an introduction to Modern Monetary Theory.
 
 ### Posting frequency
 I have no rule, for now. I will spend as much time as necessary on my posts. The question is whether to break down long articles in several installments.
