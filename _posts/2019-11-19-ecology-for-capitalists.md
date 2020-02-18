@@ -87,4 +87,4 @@ If it can be done with economic growth, for instance by making better quality cl
 But if that's not the case, we really have to think about, you know, not growing.
 I believe everyone will agree than unemployment and poverty for some are preferrable to death for everyone.
 
-I'll leave you on this happy note. This was kind of a short post with little research, unlike the previous one on NLP. Most of my free time is taken by my research and writing on nuclear energy. I'll probably make a book out of it, but some parts will definitely land on this blog. My next post will be about my experience fasting and hiking for a few days.
+I'll leave you on this happy note. This was kind of a short post with little research, unlike the previous one on NLP. Most of my free time is taken by my research and writing on nuclear energy. I'll probably make a book out of it, but some parts will definitely land on this blog.

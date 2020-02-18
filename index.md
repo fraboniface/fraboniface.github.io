@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome | Bienvenue
+title: Yet Another Technical Blog
 ---
 
-It seems you've stumbled upon my blog. You'll learn more about it in the [About](/about/) page.
+You've stumbled upon my blog. You'll learn more about it in the [About](/about/) page.
 It's quite recent: I only have two real posts for now. You can see them below.
 
 Vous avez atterri sur mon blog. Je préfère le terme original à "blogue" car ce dernier m'évoque un blobfish.
