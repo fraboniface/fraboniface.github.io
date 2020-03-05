@@ -31,7 +31,7 @@ where $$P$$ indicates the percentage, $$C$$ the cost, and $$t$$ the tax rate, be
 
 Let's now explain the model line by line. Just to be clear, in the slide above, monetary amounts are in millions, and negative amounts are in parenthesis.
 - the first 3 lines including Year are part of the assumptions;
-- Total Generation = Capacity x Capacity factor x 24 x 365 in MWh, /1000 in TWh;
+- Total Generation = Capacity x Capacity factor x 24 x 365 in MWh, /1000 in GWh;
 - LCOE: what we're looking for, we have to assume a value for now;
 - Total Revenues (millions): Total Generation in MWh x LCOE / 1,000,000;
 - Total Fuel Cost: 0 for renewables, for conventional you have to multiply the heat rate with the fuel cost and divide by a billion to get something in M$/MWh, and then multiply the result by Total Generation in MWh;
@@ -52,7 +52,6 @@ Once you got all that filled up, you can compute the IRR of the investors. I'll 
 
 ### Things I found suspicious
 Even though I knew nothing about finance before this work, there are a number of things that make me believe that Lazard's estimates might not be as solid or impartial as they seem:
-- Why separate between renewable and conventional instead of low-carbon and fossil fuels? It sounds like they want to discard nuclear as a green option from the start. It may just be that the cost structure is more similar to fossil fuels plants, though;
 - Why not make it clearer that the MACRS depreciation schedule is in the end technology-dependent? I don't think they manipulated anything because, in my understanding, it's set by law, but it clearly gives an advantage to renewables. Or perhaps it's just obvious to professionals that renewables have the 5-year schedule and conventional the 20-year schedule;
 - Their capacity factors for wind and solar are quite optimistic. They go from 21% to 34% for PV utily scale, and from 38% to 55% for onshore wind. Yet, looking at data from [ourworldindata](https://ourworldindata.org/renewable-energy), [the US Energy Information Administration](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_6_07_b), or [the National Renewable Energy Laboratory](https://atb.nrel.gov/electricity/2018/index.html?t=su), 15%-25% for solar and 25%-50% for onshore wind would have been much more honest;
 - They use a facility life of 40 years for nuclear, whereas all reactors that are being built now are designed to operate *at least* 60 years. I suppose that's because the nuclear project starts losing cash after 40 years according to the model (see the plot of the normalized cash flows later on), but perhaps it also means that the 2.25% escalation rate of O&M cost is not adapted to nuclear, or longer projects in general; 
@@ -142,7 +141,7 @@ The first thing we want to do is to compute the IRR over the lifetime of the fac
 
 
 ### More realistic capacity factors
-As I said, I wasn't so happy with their capacity factors, so I changed their range from 38%-55% to 25%-50% for wind, and from 23%-34% to 15%-25% for solar. The new LCOE ranges are:
+As I said, I wasn't so happy with their capacity factors, so I changed their range from 38%-55% to 25%-50% for wind, and from 23%-34% to 15%-25% for solar. Keep in mind that 50% for onshore wind is really exceptional, whereas 25% is the world average, so it's not like I'm trying to make wind energy appear more expensive than it is. The new LCOE ranges are:
 - wind: 32 - 87 $/MWh;
 - solar: 48 - 64 $/MWh.
 
@@ -198,7 +197,7 @@ I'm probably biased towards nuclear, but this position comes from a long reflect
 Lazard's numbers explain why there is ten times more investments in renewables than in nuclear (a few hundred billions a year versus a few dozen). But why then is electricity twice as cheap in France as in Germany? We've seen that nuclear can be much more affordable with the right capital structure (it is estimated than the Britich Hinkley Point C project could have been half the price if financed by the state [^1]). It's true, however, that it has become more expensive over time in the West, whereas renewables prices have decreased sharply. Here is probably part of the explanation: the French nuclear plants were built for a much cheaper price than most new nuclear projects, and German renewables were paid at a higher price than they would be today. But the other part is because of things that aren't captured by LCOE, like intermittency, grid stability, variable electricity prices [^2]. Why would we even consider gas peaking plants otherwise?
 
 [^1]: [Report from the British National Audit Office](https://www.nao.org.uk/wp-content/uploads/2017/06/Hinkley-Point-C.pdf)
-[^2]: You can read [this critique of LCOE](http://economics.mit.edu/files/6317) for instance.
+[^2]: You can read [this critique of LCOE](http://economics.mit.edu/files/6317), or [this paper](https://www.sciencedirect.com/science/article/pii/S2211467X19300197), for instance.
 
 
 So, should we ditch nuclear? No, we should make it cheaper. Renewables were expensive and we've put a lot of energy and money into making them affordable, because we knew they were worth it. Well, we also know that the energy transition will be much easier if we don't throw away a major source of clean and dispatchable electricity. Moreover, there's still an enormous margin of improvements for nuclear. Imagine: some generation III+ reactors that are being built now were designed in the 90's without CAD.
