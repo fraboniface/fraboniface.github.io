@@ -20,14 +20,14 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                YATB
+title:                FBlog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A blog about AI, the environment, economics, health, and more.
+  Random thoughts and projects that I want to share
   <br>---<br>
-  Un blog sur l'IA, l'écologie, l'économie, la santé, et plus.
+  Idées et projets divers et variés que je souhaite partager
 # A shorter description for the sidebar.
 #tagline:               >
 #  A blog about things and stuffs
@@ -44,7 +44,7 @@ author:
   name: François Boniface
   email: fraboniface@gmail.com
   about: |
-   François, pour vous servir.
+   François, I'm the owner of this blog and its only writer so far.
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
