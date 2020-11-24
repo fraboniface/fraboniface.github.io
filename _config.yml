@@ -70,13 +70,13 @@ menu:
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /page-:num/
+#paginate:              10
+#paginate_path:         /page-:num/
 
 
 # Customizaton
 # ========================================================================================
-remote_theme: hydecorp/hydejack
+theme: jekyll-theme-hydejack
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/blue_bg.jpg
